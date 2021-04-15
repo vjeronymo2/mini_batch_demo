@@ -1,1 +1,1 @@
-# Mini batch gradient descent demo made in dash with Dockerfile for containers
+# Mini batch gradient descent demo for iris dataset made in Dash with Dockerfile for containers
